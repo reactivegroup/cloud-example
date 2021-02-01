@@ -1,0 +1,1 @@
+package com.reactive.aws.ses.contract;
