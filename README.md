@@ -10,9 +10,9 @@
 
 ## Document
 
-**[SDK使用指南](doc/Aws-Java-SDK使用.md)**
+**[AWS SDK使用指南](doc/Aws-Java-SDK使用.md)**
 
-**[SDK2性能优化](doc/Aws-Java-SDK2优化.md)**
+**[AWS SDK2性能优化](doc/Aws-Java-SDK2优化.md)**
 
 ## Link
 
